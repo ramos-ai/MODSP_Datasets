@@ -1,0 +1,29 @@
+c	seed = 1
+c
+c	Grid directed network
+c
+T	g d
+c
+c	d = 4
+c
+N	25
+c
+A	80
+c
+k	2
+c
+c	5x5
+c
+s	1
+v 14
+c
+t	25
+c
+a	14 15 1 483 
+a	13 14 999 940 
+a	9 14 1 209 
+a	15 14 999 938 
+a	19 14 417 28 
+a	14 9 415 885 
+a	14 13 999 210 
+a	14 19 1 92 
